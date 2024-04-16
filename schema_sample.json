@@ -67,8 +67,8 @@
         }
     ],
     "header": {
-        "header": "Demo-KG",
-        "title": "Demo-KG",
+        "header": "MDallegge",
+        "title": "MDallegge",
         "background": {
             "backgroundColor": "#000",
             "contrastText": "#FFF"
@@ -76,9 +76,9 @@
         "icon": {
             "src": "https://minio.dev.maayanlab.cloud/enrichr-kg/enrichr-kg.png",
             "favicon": "https://minio.dev.maayanlab.cloud/enrichr-kg/enrichr-kg.png",
-            "faviconTitle": "Demo-KG",
-            "alt": "Demo-KG",
-            "key": "Demo-KG_logo",
+            "faviconTitle": "MDallegge",
+            "alt": "MDallegge",
+            "key": "MDallegge_logo",
             "width": 100,
             "height": 60
         },
@@ -91,8 +91,8 @@
                 "props": {
                     "init_function": "initialize_kg",
                     "initial_query": {
-                        "start": "Gene",
-                        "start_term": "APOE",
+                        "start": "id",
+                        "start_term": "Aortic Aneurysm, Abdominal",
                         "start_field": "label"
                     },
                     "subheader": {
